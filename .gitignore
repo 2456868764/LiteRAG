@@ -1,0 +1,10 @@
+# macos
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+data/database/
+data/uploaded_files/
